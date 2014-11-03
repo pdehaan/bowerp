@@ -1,6 +1,6 @@
 # bowerp
 
-Promised based #Bower API.
+Promised based [Bower](http://bower.io/docs/api/) API.
 
 **PROTIP:** EXTREME WORK IN PROGRESS! You probably don't want this &mdash; unless you only care about `bower.commands.info()`.
 
